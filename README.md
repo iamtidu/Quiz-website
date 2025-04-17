@@ -2,7 +2,7 @@
 
 - fill name and email pass the test and get the certificate 
 - using HTML, CSS, Javascript
-- ![Link](https://iamtidu.github.io/Quiz-website/)
+- <a herf="https://iamtidu.github.io/Quiz-website/">Link</a>
 
 ## Outputs
 

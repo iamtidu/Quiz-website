@@ -1,7 +1,8 @@
 # Quiz Website
 
-- fll name and email pass the test and get the certificate 
+- fill name and email pass the test and get the certificate 
 - using HTML, CSS, Javascript
+- ![Link](https://iamtidu.github.io/Quiz-website/)
 
 ## Outputs
 

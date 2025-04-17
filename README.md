@@ -1,4 +1,4 @@
-# Quize Website
+# Quiz Website
 
 - fll name and email pass the test and get the certificate 
 - using HTML, CSS, Javascript
